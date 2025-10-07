@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <h1>WEB</h1>
+    <h1>Prueba</h1>
     <Login/>
     <Services/>
     </>
